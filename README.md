@@ -19,8 +19,8 @@ A Streamlit application that analyzes images of ingredients and suggests recipes
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/recipe-finder.git
-cd recipe-finder
+git clone https://github.com/mychaelangelo/recipe_match.git
+cd recipe_match
 ```
 
 ```bash
